@@ -5,7 +5,7 @@ You are owing a supermarket mall and through membership cards , you have some ba
 Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data.
 
 Problem Statement:
-You own the mall and want to understand the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly.
+You own the mall and want to understand the customers like who can easily converge so that the sense can be given to marketing team and plan the strategy accordingly.
 
 Mall Customer Segmentation using K-Means Clustering
 This project demonstrates the process of clustering customers based on their annual income and spending score using the K-Means clustering algorithm. It helps identify different customer segments and understand their behavior for targeted marketing strategies.
